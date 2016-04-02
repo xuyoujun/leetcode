@@ -6,6 +6,7 @@
 *.vcxproj
 *.filters
 stdafx.h
+stdafx.cpp
 *.log
 *.obj
 *.idb
