@@ -1,0 +1,15 @@
+*.sdf
+*.sln
+*.ipch
+*.txt
+*.h
+*.vcxproj
+*.filters
+stdafx.h
+*.log
+*.obj
+*.idb
+*.pdb
+*.pch
+*.tlog
+*.ilk
