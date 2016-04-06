@@ -14,3 +14,4 @@ stdafx.cpp
 *.pch
 *.tlog
 *.ilk
+*.exe
